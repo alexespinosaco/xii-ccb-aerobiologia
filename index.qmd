@@ -246,6 +246,10 @@ Para saber más: @davies2021; @lancia2021; @schramm2021.
 ::::
 :::::
 
+::: {.footer}
+<https://ssrn.com/abstract=4960885>
+:::
+
 ## Referencias {visibility="uncounted"}
 
 ::: {#refs}
